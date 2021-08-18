@@ -12,7 +12,7 @@
 - ⚡ Fun fact: <b>I love coding almost as much as I love motorcycles.</b>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Daisy-McG"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Daisy-McG&show_icons=true&locale=en&layout=compact"
     alt="daisy-mcg" /></p>
 
 <p>&nbsp;<img align="center"
