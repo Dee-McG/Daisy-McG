@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Daisy 👋
 
-<!--
-**Daisy-McG/Daisy-McG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full Stack Web Developer specialising in Python (Django / Flask) and Student Mentor with a passion for learning.
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=Daisy-McG" alt="Daisy-McG" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning <b>Salesforce Lightning Web Components.</b>
+- 👯 I’m looking to collaborate on <b>Python / Web Projects.</b>
+- 📫 How to reach me: **daisy.e.j.mcg@gmail.com**
+- 😄 Pronouns: <b>She/Her.</b>
+- ⚡ Fun fact: <b>I love coding almost as much as I love motorcycles.</b>
+
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Daisy-McG&show_icons=true&locale=en&layout=compact"
+    alt="daisy-mcg" /></p>
+
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Daisy-McG&show_icons=true&locale=en" alt="daisy-mcg" /></p>
