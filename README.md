@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daisy-mcg" alt="daisy-mcg" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 📫 How to reach me **daisy.e.j.mcg@gmail.com**
+- 📫 How to reach me **mcgirr.daisy@outlook.com**
 
 - ⚡ Fun fact **I love coding almost as much as I love motorcycles**
 
