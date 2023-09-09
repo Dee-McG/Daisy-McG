@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daisy or Dee, take your pick</h1>
+<h1 align="center">Hi 👋, I'm Dee</h1>
 <h3 align="center">I am Software Engineer & Student Mentor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisy-mcg&label=Profile%20views&color=0e75b6&style=flat" alt="daisy-mcg" /> </p>
