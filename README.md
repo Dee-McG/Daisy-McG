@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dee</h1>
 <h3 align="center">I am Software Engineer & Student Mentor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daisy-mcg&label=Profile%20views&color=0e75b6&style=flat" alt="daisy-mcg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dee-mcg&label=Profile%20views&color=0e75b6&style=flat" alt="daisy-mcg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daisy-mcg" alt="daisy-mcg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dee-mcg" alt="daisy-mcg" /></a> </p>
 
 - 🔭 I’m currently working on **django**
 
